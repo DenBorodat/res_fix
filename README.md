@@ -1,3 +1,3 @@
-# Res fixes miui 7
+# Res fixes miui 7 nx403a
 
 
